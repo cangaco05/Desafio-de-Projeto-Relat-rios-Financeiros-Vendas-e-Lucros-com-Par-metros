@@ -1,6 +1,13 @@
 # 📊 Desafio de Projeto: Relatórios Financeiros, Vendas e Lucros com Parâmetros  
 ### Data Analytics com Power BI e UX Aplicada
 
+
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)  
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+---
+
 Este repositório apresenta um **dashboard interativo desenvolvido no Power BI** como parte de um desafio prático da [DIO](https://www.dio.me).  
 O projeto tem como objetivo aplicar conceitos de **Data Analytics** e **User Experience (UX)** para transformar dados em informações claras, organizadas e relevantes para a tomada de decisão.
 
